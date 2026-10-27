@@ -1,8 +1,11 @@
 # MR3DP
 
 Title: Minimum Roman 3-Domination Problem: A hybrid metaheuristic approach
+
 Authors: Jesús Sánchez-Oro,Alejandra Casado, Abraham Duarte, Mauricio G.C. Resende
+
 DOI: https://doi.org/10.1016/j.ins.2026.124323 
+
 Abstract:
 Over the last decades, graph domination problems have attracted the attention of both scientists and practitioners. Among the different variants, the Roman Domination Problem is one of the most studied problems in the literature. Since its definition, several variants with different constraints have been proposed, with the Minimum Roman 3-Domination Problem being one of the most recent proposals. This problem has been mainly addressed from theoretical and exact perspectives, but it has been almost ignored from the heuristic perspective. In this paper, a hybrid algorithm that combines Greedy Randomized Adaptive Search Procedure with Iterated Greedy is proposed, as well as extensive computational experimentation that evaluates the performance of the proposed method by comparing it with the state of the art. A new movement operator, named Crater, is proposed in order to provide a better exploration of the search space. The results, supported by statistical tests, show that the proposal emerges as the most competitive method for the addressed problem when considering challenging instances where the exact model is not able to guarantee optimality.
 
